@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.elDiv {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+}
+p{
+    text-align: center;
+    color: green;
+}
+
+h2{
+    text-align: center;
+    color: green;
+}
